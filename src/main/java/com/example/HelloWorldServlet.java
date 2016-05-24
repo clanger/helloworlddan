@@ -20,6 +20,7 @@ public class HelloWorldServlet extends HttpServlet {
 		
 		ServletInputStream inputStream = req.getInputStream();
         String strRequest = IOUtils.toString( inputStream );
+        resp.getOutputStream().write(strRequest.getBytes());
         resp.getOutputStream().write(strRequest.toUpperCase().getBytes());
 	}
 
