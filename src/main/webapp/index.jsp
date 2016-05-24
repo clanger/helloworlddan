@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Hello World Dan</title>
+  <title>Hello World Dan - GitHub</title>
 </head>
 
 <body>

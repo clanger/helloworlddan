@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.altify</groupId>
-  <artifactId>helloworlddan</artifactId>
+  <artifactId>helloworlddan-github</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>helloworlddan Maven Webapp</name>
+  <name>helloworlddan-github Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
 	<properties>
