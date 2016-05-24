@@ -2,3 +2,4 @@
 - Must run once: $heroku ps:scale web=1
 - Don't forget the <copy-dependencies> etc. in the pom.xml as otherwise the Heroku web application will crash with ClassNotFound exceptions
 - added system.properties (so as to fix Java version at 1.7 and fix Maven version at 3.0.5)
+- Made a dummy change to this file
